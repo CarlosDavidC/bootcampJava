@@ -12,6 +12,6 @@ public class Loops {
             mediaEvaluaciones = mediaEvaluaciones + nota;
         }
         mediaEvaluaciones = mediaEvaluaciones / 3;
-        System.out.println("mediaEvaluaciones = " + mediaEvaluaciones);
+        System.out.println("mediaEvaluaciones   = " + mediaEvaluaciones);
     }
 }
